@@ -1,0 +1,15 @@
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\task35.csproj.AssemblyReference.cache
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\task35.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\task35.AssemblyInfoInputs.cache
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\task35.AssemblyInfo.cs
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\task35.csproj.CoreCompileInputs.cache
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\bin\Debug\net6.0\task35.exe
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\bin\Debug\net6.0\task35.deps.json
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\bin\Debug\net6.0\task35.runtimeconfig.json
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\bin\Debug\net6.0\task35.dll
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\bin\Debug\net6.0\task35.pdb
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\task35.dll
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\refint\task35.dll
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\task35.pdb
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\task35.genruntimeconfig.cache
+D:\Users\Pyotr\Desktop\Lessons\Lesson 4\task35\obj\Debug\net6.0\ref\task35.dll
